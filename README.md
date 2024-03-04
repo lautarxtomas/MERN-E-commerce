@@ -26,8 +26,12 @@ En el server decidí usar las siguientes dependencias:
 
 # RECOMENDACIONES
 
+
 # /MERN E-COMMERCE/server --> npm start
 # /MERN E-COMMERCE/client --> npm start
+
+> Probar todo el proyecto en local antes que nada.
+>>>>>>> 60b1b70a893747523347c82274aabe30e35126b6
 
 > Seguir las rutas configuradas (empezando por "auth") para trazar el camino del proyecto.
 
@@ -54,7 +58,7 @@ Para hacer acciones modificadoras (POST, PUT, DELETE) es necesario estar logeado
 https://mern-ecommerce-3ngx.onrender.com/
 
 # REACT APP DEPLOY:
-https://oldboxlfc-lautarxtomas.vercel.app/cart
+https://oldboxlfc-lautarxtomas.vercel.app (por alguna razón no está pudiendo procesar el pago desde el deploy de la app, pero en local funciona perfectamente)
 
        
 
