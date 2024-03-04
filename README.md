@@ -26,6 +26,9 @@ En el server decidí usar las siguientes dependencias:
 
 # RECOMENDACIONES
 
+# /MERN E-COMMERCE/server --> npm start
+# /MERN E-COMMERCE/client --> npm start
+
 > Seguir las rutas configuradas (empezando por "auth") para trazar el camino del proyecto.
 
 > Para registrar un usuario, debemos respetar el schema de MongoDB.
