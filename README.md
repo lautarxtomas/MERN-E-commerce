@@ -30,6 +30,9 @@ En el server decidí usar las siguientes dependencias:
 # /MERN E-COMMERCE/server --> npm start
 # /MERN E-COMMERCE/client --> npm start
 
+# CAMBIAR LA VARIABLE DE ENTORNO DEL CLIENTE PARA PROBAR LA API EN LOCAL O EN RENDER.
+# POR LAS DUDAS CHECKEAR QUE SIGA ACTIVA LA DB EN MONGODB
+
 > Probar todo el proyecto en local antes que nada.
 >>>>>>> 60b1b70a893747523347c82274aabe30e35126b6
 
